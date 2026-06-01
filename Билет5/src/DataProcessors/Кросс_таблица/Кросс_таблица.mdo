@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6e52f57a-4505-40e7-affb-d76a120a83fa">
+  <producedTypes>
+    <objectType typeId="12a26b5c-3f57-41c3-9c99-8a17cb0fa3c5" valueTypeId="108f24f3-0251-45d0-833b-253d10ed5d5d"/>
+    <managerType typeId="5addfa5d-d531-412d-8e2e-c40955072894" valueTypeId="b80a0313-c1da-4fd4-9025-7f9d3cfbe6e5"/>
+  </producedTypes>
+  <name>Кросс_таблица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отчет по складам</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.Кросс_таблица.Form.Форма</defaultForm>
+  <forms uuid="363648c8-160b-4615-acae-0691533be368">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="f15a126f-995e-4c57-8823-08cd0915f113">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+  </templates>
+</mdclass:DataProcessor>
